@@ -1,0 +1,6 @@
+# Optional Python dependencies for VibeCraft AI
+# Note: app.py runs out-of-the-box using Python's standard library with zero pip installs!
+# If you want to use the official Google GenAI Python SDK:
+google-genai>=0.1.0
+requests>=2.31.0
+python-dotenv>=1.0.0
